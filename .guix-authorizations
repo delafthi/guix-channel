@@ -1,0 +1,10 @@
+;; This file, which is best viewed as -*- Scheme -*-, lists the OpenPGP keys
+;; currently authorized to sign commits in this repository.
+
+(authorizations
+  (version 0)
+
+  (("AD78 A74D D561 FC73 DD2F  9503 3F9D 47D5 0357 5097"
+     (name "delafthi"))))
+
+;; vim: ft=scheme
